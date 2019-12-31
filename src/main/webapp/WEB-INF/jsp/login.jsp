@@ -1,9 +1,10 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
-<hr/>  
-  
+
+<html>
+<body>
 <h3>Login Form</h3>  
-  
+
 <form:form modelAttribute="form">
      <form:errors path="" element="div" />
      <div>
@@ -23,3 +24,5 @@
          <input type="submit" />
      </div>
 </form:form>
+</body>
+</html>
