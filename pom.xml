@@ -8,7 +8,7 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ar.empanada.android</groupId>
+	<groupId>ar.empanada.webapp</groupId>
 	<artifactId>ringmyphone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ringmyphone</name>
@@ -35,6 +35,12 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		
+		<dependency>
+		    <groupId>org.springframework.security</groupId>
+		    <artifactId>spring-security-core</artifactId>
+	    </dependency>
+				
 	</dependencies>
 
 	<build>
