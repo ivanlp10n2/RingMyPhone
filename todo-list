@@ -9,3 +9,19 @@ In order to build my application i need :
 
 3) Having an app on my phone that is sync with the account 
 4) Being able to sound loudly whenever the webpage requests it 
+
+
+
+
+============================================================== BEGIN Tasking =======================================================
+1) Being able to register an account and login
+
+A) Implement Login view 
+B) Implement Spring security to our app
+C) Implement user mock
+D) Implement Register view
+E) Design database on memory to test our user creation
+
+
+
+============================================================== END Tasking =======================================================
