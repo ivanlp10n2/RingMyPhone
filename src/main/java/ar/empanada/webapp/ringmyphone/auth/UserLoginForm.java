@@ -1,7 +1,12 @@
 package ar.empanada.webapp.ringmyphone.auth;
 
-public class UserLoginForm {
+import java.io.Serializable;
 
+public class UserLoginForm implements Serializable{
+
+	
+	private static final long serialVersionUID = 1L;
+	
 	private String username;
 	private String password;
 	
