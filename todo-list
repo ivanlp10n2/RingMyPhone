@@ -25,3 +25,26 @@ E) Design database on memory to test our user creation
 
 
 ============================================================== END Tasking =======================================================
+
+
+
+
+
+
+
+
+In order to build my smartphone application I need: 
+
+1) Being able to login 
+2) being able to notify me whenever I get a call 
+3) 
+
+============================================================== BEGIN Tasking =======================================================
+1) Being able to login 
+
+A) Implement login view 
+B) Implement security with a external provider (centralized login) 
+C) Implement user mock
+D) Design database on memory to test our user creation
+
+============================================================== END Tasking =======================================================
